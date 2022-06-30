@@ -10,19 +10,19 @@ apartment INT NOT NULL);
 
 
 INSERT INTO customers(first_name, last_name, phone_number, district, street, house, apartment) VALUES
-('Penny', 'Smith', '+ 1 416 572 3771', 'South', 'First Avenue', 1, 10),
-('Randy', 'Brown', '+ 1 416 568 8452', 'West', 'Spring St', 2, 35),
-('Oliver', 'Thompson', '+ 1 416 782 5648', 'East', 'Five Avenue', 77, 14),
-('James', 'Twist', '+ 1 416 752 1224', 'South', 'Corn St', 24, 89),
-('Hellen', 'Bellora', '+ 1 416 555 4568', 'South', 'First Avenue', 11, 85),
-('Kate', 'Evans', '+ 1 416 321 3211', 'West', 'Spring St', 123, 52),
-('Jennifer', 'Radriges', '+ 1 416 321 1232', 'West', 'Roll St', 76, 44),
-('Mario', 'Gordon', '+ 1 416 122 4554', 'East', 'Five Avenue', 21, 91),
-('Bella', 'Lorenson', '+ 1 416 758 1667', 'North', 'Green Avenue', 23, 67),
-('Erica', 'Visputchu', '+ 1 416 765 8582', 'South', 'First Avenue', 62, 44),
-('Henry', 'Smith', '+ 1 416 657 5528', 'South', 'Brown St', 15, 56),
-('Oscar', 'Rild', '+ 1 416 624 3643', 'South', 'First Avenue', 5, 13),
-('William', 'Frankston', '+ 1 416 303 8181', 'North', 'Cascade Rd', 18, 88),
-('Peter', 'Hall', '+ 1 416 466 7562', 'North', 'Cascade Rd', 17, 7),
-('Ada', 'Watson', '+ 1 416 114 7812', 'South', 'Elma St', 18, 9);
+('Akylai', 'Zholdoshbekova', '+ 996 702 565 415', 'Bishkek', 'Chuy Avenue', 1, 10),
+('Myrza', 'Alibekov',      '+ 996 504 598 450', 'Bishkek', 'Toktogul St', 2, 35),
+('Tolgonai', 'Kalysbekova', '+ 996 705 264 158', 'Bishkek', 'Chuy Avenue', 77, 14),
+('Kanat', 'Bekbolsunov', '+ 996 777 632 547', 'Bishkek', 'Moscow St', 24, 89),
+('Akbar', 'Sultanbekov', '+ 996 700 005 693 ', 'Bishkek', 'Manas Avenue', 11, 85),
+('Begimai', 'Karypbekova', '+ 996 500 520 450', 'Bishkek', 'Zhibek Zholu St', 123, 52),
+('Sultan', 'Rustamov',     '+ 996 552 456 234', 'Bishkek', '7th microdistrict', 76, 44),
+('Adinai', 'Erkinbekova',   '+ 996 550 780 326', 'Bishkek', 'Manas Avenue', 21, 91),
+('Meerim', 'Abdyrakhmanova', '+ 996 705 365 412', 'Bishkek', '12th microdistrict', 23, 67),
+('Erkeaiym', 'Bartabasova', '+ 996 702 639 578', 'Bishkek', 'Chuy Avenue', 62, 44),
+('Bermet', 'Amangeldieva', '+ 996 778 657 528', 'Bishkek', 'Togolok Moldo St', 15, 56),
+('Roza', 'Osmonova',    '+ 996 509 416 624', 'Bishkek', 'Manas Avenue', 5, 13),
+('Turarbek', 'Kalysov', '+ 996 708 563 870', 'Bishkek', '8th microdistrict', 18, 88),
+('Amantur', 'Temirbekov', '+ 996 502 124 639', 'Bishkek', 'Kiev St', 17, 7),
+('Bakai', 'Zhanyshbekov', '+ 996 556 174 345', 'Bishkek', 'I.Raazakov St', 18, 9);
 
