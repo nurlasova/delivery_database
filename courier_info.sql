@@ -6,7 +6,7 @@ phone_number VARCHAR(20) NOT NULL,
 delivery_type VARCHAR(5) NOT NULL);
 
 INSERT INTO courier_info(first_name, last_name, phone_number, delivery_type) VALUES
-('John', 'Rython', '+ 1 408 655 0954', 'foot'),
-('Kate', 'Looran', '+ 1 408 743 0146', 'car'),
-('Bob', 'Kolaris', '+ 1 408 107 7798', 'car'),
-('Michael', 'Frontal', '+ 1 408 566 5516', 'car');
+('Аsan', 'Berdibekov', '+996 700 520 450', 'foot'),
+('Samat', 'Joldosbaev', '+996 502 450 508', 'car'),
+('Azatbek', 'Nurdanbekov', '+996 555 217 982', 'car'),
+('Mirlan', 'Akykbekov', '+996 702 564 321', 'car');
